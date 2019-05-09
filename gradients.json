@@ -1,5 +1,9 @@
 [
-    {
+   {
+        "name": "Radioactive cold",
+        "colors": ["#F7941E", "#72C6EF", "00A651"]
+   },  
+   {
         "name": "Radioactive Heat",
         "colors": ["#F7941E", "#72C6EF", "00A651"]
     }, 
